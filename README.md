@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sweta Singh, currently a second year student at Dr. DY Patil College Of Engineering ,Pune.</h1>
-<h3 align="center">I am a passionate frontend developer & Competitive Programmer.</h3>
+<h1 align="center">Hi 👋, I'm Sweta Singh</h1>
+<h3 align="center">I am a curious person who loves to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=72002sweta&label=Profile%20views&color=0e75b6&style=flat" alt="72002sweta" /> </p>
 
-- 📫 How to reach me **72002sweta@gmail.com**
+- 🎓 I am currently a second year student at Dr. DY Patil College Of Engineering ,Pune.
+
+- 👨‍🎓 I am a passionate frontend developer & Competitive Programmer.
+
+- 💻 I love to code and I have my keen interest in UI/UX designing.
 
 - 🌱 I’m currently learning **React⚛**
+
+- 📫 How to reach me **72002sweta@gmail.com**
 
 - ⚡ Fun fact **I am good with communication skills**
 
